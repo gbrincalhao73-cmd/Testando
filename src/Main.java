@@ -9,5 +9,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Olá! Você tirou " + rolador());
+        SYstem.out.println("Taca a mãe pra ver se quica glenn."):
     }
 }
