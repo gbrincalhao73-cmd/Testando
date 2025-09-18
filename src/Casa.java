@@ -1,9 +1,9 @@
 public class Casa {
-    String lugar;
-    int quartos;
+    String endereço;
+    int comodos;
 
     Casa(String lugar, int quartos) {
-        this.lugar = lugar;
-        this.quartos = quartos;
+        this.endereço = lugar;
+        this.comodos = quartos;
     }
 }
