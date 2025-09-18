@@ -13,7 +13,6 @@ public class Main {
          System.out.println(rolador(2));
          System.out.println(rolador(4);
          System.out.println(rolador(6));
-         System.out.println(rolador(6));
          System.out.println(rolador(8));
         
     }
