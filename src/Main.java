@@ -15,6 +15,7 @@ public class Main {
          System.out.println(rolador(4);
          System.out.println(rolador(6));
          System.out.println(rolador(8));
+         int[] partes = new int[60];
         
     }
 }
